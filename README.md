@@ -1,5 +1,6 @@
 # ISL6236A
 TASARIMDA yap ve kendini geliştir serisi projelerimizde #2
+
 ISL6236A Dual Step-Down(Voltaj Düşürücü)
 6 Katmanlı SMPS projesi Altiumda tasarlanan
 
